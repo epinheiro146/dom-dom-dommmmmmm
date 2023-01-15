@@ -1,0 +1,13 @@
+.squares-div {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square {
+    background-color: black;
+    color: white;
+    height: 5em;
+    width: 5em;
+    position: relative;
+    margin-right: 5px;
+}
